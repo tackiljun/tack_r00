@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.productList {
+  background-color: black;
+  list-style: none;
+  border: 1px solid blue;
+  display: flex;
+}
+
+.productList li {
+  margin: 2em;
+  padding: 2em;
+  background-color: red;
+
+}
+
+/* img {
+  width: 150px;
+  height: 150px;
+} */
+
+/* 앞에 .은 클래스에만 */
